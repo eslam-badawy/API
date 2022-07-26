@@ -1,0 +1,16 @@
+"boards": [
+        {
+            "id": "62de9acfc93c99342e87bd5d",
+            "name": "test 1",
+            "closed": false,
+            "idOrganization": "62de922fcf6a0f8c3929ea74",
+            "pinned": false
+        },
+        {
+            "id": "62dea4c187c1c21149e5d550",
+            "name": "test 2",
+            "closed": false,
+            "idOrganization": "62de922fcf6a0f8c3929ea74",
+            "pinned": false
+        }
+    ]
